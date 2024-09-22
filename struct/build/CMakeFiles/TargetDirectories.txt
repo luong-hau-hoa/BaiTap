@@ -1,0 +1,3 @@
+/home/hoa/Work2/struct/build/CMakeFiles/out.dir
+/home/hoa/Work2/struct/build/CMakeFiles/edit_cache.dir
+/home/hoa/Work2/struct/build/CMakeFiles/rebuild_cache.dir
